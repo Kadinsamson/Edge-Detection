@@ -29,7 +29,7 @@ Display the filtered image using plot and imshow.
  
 ## Program:
 ```
-Developed by : Kadin Samson
+Developed by : Kadin Samson L
 Register No  : 212221230044
 ```
 
